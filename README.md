@@ -1,1 +1,1 @@
-# app-with-basic
+# app-with-argocd
